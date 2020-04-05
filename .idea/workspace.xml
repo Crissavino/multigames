@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a465b0e4-fd7e-461a-a67b-4c3bc740d11b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a7efs4s3VahpiCOFE4XE2ubmJJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../multigames2" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a465b0e4-fd7e-461a-a67b-4c3bc740d11b" name="Default Changelist" comment="" />
+      <created>1586091165010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586091165010</updated>
+      <workItem from="1586091170121" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1586091319828">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="690" y="257" width="530" height="598" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1586091319828" />
+  </component>
+</project>
