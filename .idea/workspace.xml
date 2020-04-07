@@ -39,9 +39,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2346" y="67" width="1058" height="943" key="CommitChangelistDialog2" timestamp="1586284818556">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2346" y="67" width="1058" height="943" key="CommitChangelistDialog2/0.34.1920.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586284818556" />
     <state x="690" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1586091319828">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="690" y="257" width="530" height="598" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1586091319828" />
+    <state x="2554" y="185" width="631" height="706" key="RollbackChangesDialog" timestamp="1586284808916">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2554" y="185" width="631" height="706" key="RollbackChangesDialog/0.34.1920.1046/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586284808916" />
   </component>
 </project>
