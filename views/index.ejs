@@ -7,5 +7,15 @@
   <body>
     <h1><%= title %></h1>
     <p>Hola <%= title %></p>
+
+    <div>
+      <% games.forEach( (game) => { %>
+        <p> <%= game.title %> </p>
+        <p> <%= game.desc %> </p>
+        game.iframe
+      <% }); %>
+    </div>
+
+    <div></div>
   </body>
 </html>
