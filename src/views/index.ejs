@@ -1,19 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= title %></title>
+    <title>Prueba</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1><%= title %></h1>
-    <p>Hola <%= title %></p>
-
     <div>
+
       <% games.forEach( (game) => { %>
-        <p> <%= game.title %> </p>
-        <p> <%= game.desc %> </p>
-        game.iframe
-      <% }); %>
+        <h2><%= game.title %></h2>
+      <% })%>
+
     </div>
 
     <div></div>
